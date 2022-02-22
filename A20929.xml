@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An admirable discouery of an horrible attempt; slaunderously fathered vpon those of Rochell. Liuely described in a letter, / sent by the Seignior of Montmartin; one of the Generall Deputies of the Reformed Churches of France, vnto a friend of his. M.DC.XXIIII.</title>
+            <author>Montmartin, Esaïe du mats de.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20929</idno>
+            <idno type="STC">STC 7305</idno>
+            <idno type="STC">ESTC S121024</idno>
+            <idno type="EEBO-CITATION">99856215</idno>
+            <idno type="PROQUEST">99856215</idno>
+            <idno type="VID">177482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 988:09)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An admirable discouery of an horrible attempt; slaunderously fathered vpon those of Rochell. Liuely described in a letter, / sent by the Seignior of Montmartin; one of the Generall Deputies of the Reformed Churches of France, vnto a friend of his. M.DC.XXIIII.</title>
+                  <author>Montmartin, Esaïe du mats de.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Dawson for Nathaniel Newbery: and are to be sold at his shop, at the signe of the Starre, vnder S. Peters Church in Corn-hill, and in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation from the French original by Esaïe du Mats de Montmartin.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protestants --  France --  Early works to 1800.</term>
+               <term>La Rochelle --  Church history --  Early works to 1800.</term>
+               <term>Reformed Church --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177482:1" rendition="simple:additions"/>
+            <pb facs="tcp:177482:1" rendition="simple:additions"/>
+            <p>AN ADMIRABLE DISCOVERY OF AN HORRIBLE Attempt; ſlaunderouſly Fathered vpon thoſe of ROCHELL.</p>
+            <p>Liuely deſcribed in a Letter, ſent by the Seignior of <hi>Montmartin;</hi> one of the <hi>Generall Deputies of the Reformed Churches of</hi> FRANCE, <hi>vn<g ref="char:EOLhyphen"/>to a Friend of his.</hi> M.DC.XXIIII.</p>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>Iohn Dawſon</hi> for <hi>Nathaniel Newbery:</hi> and are to be ſold at his Shop, at the Signe of the <hi>Starre</hi> vnder S. <hi>Peters</hi> Church in <hi>Corn-hill,</hi> and in <hi>Popes</hi>-head Alley. 1624.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:177482:2"/>
+            <pb n="1" facs="tcp:177482:2"/>
+            <head>AN ADMIRABLE DISCOVERIE of an horrible Attempt, ſlaunderouſly fathered vpon thoſe of <hi>Rochell.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">S</seg>IR,</salute>
+            </opener>
+            <p>The long experi<g ref="char:EOLhyphen"/>ence which by your age and worth, you haue gotten in this World, having often invited me to take your advice in the diſcharge of my place, doth binde me likewiſe to giue you notice of any notable Accident hapning therein.</p>
+            <pb n="2" facs="tcp:177482:3"/>
+            <p>Of late we haue beene buſied about the diſcovery of a ſtrange Impoſture and Suppoſition, drawne from falſe witneſ<g ref="char:EOLhyphen"/>ſes, who by the ſuggeſtion of one <hi>Guillot</hi> of <hi>Lyons,</hi> had cauſed one <hi>du Bois,</hi> of the Countrie of <hi>Pourin</hi> (a man of the Reformed Religion, and deputed to exhibit our grievances, which we haue often cauſe to complaine of) to be impriſoned, accuſing him of high treaſon; the information, hearing, and confrontment whereof, be<g ref="char:EOLhyphen"/>ing orderly performed, during the time of his long impriſonment, there remained but one onely witneſſe, and he not very conſtant neither, who averred to haue heard from the mouth of the ſaid <hi>Du Bois:</hi> That the King might perhaps re<g ref="char:EOLhyphen"/>pent the ſo little keeping of his Word in the laſt Treatie of Peace; Wherevpon although it were but doubtfull, the Iud<g ref="char:EOLhyphen"/>ges (being according to their duties very nice in that which concernes the ſacred perſon of our King) condemned the ſaid <hi>du Bois,</hi> in an hundred and fiftie Franckes fine, baniſhing him from out of the juriſ<g ref="char:EOLhyphen"/>diction of <hi>Paris</hi> for three yeeres, and for<g ref="char:EOLhyphen"/>ced
+<pb n="3" facs="tcp:177482:3"/>
+him to paſſe ouer an office which hee held. After all this he was yet detained a moneth longer in Priſon, to giue the more way to any newe accuſation, nor was there any inſtance made in favour of him, conſidering the waight of his accuſation, although there appeared ſome manifeſt wrong therein: In the ende his libertie being obtained hee comes foorth: But it happens that within two houres after, That the ſame firſt Appeacher delivers in<g ref="char:EOLhyphen"/>to the hands of Father <hi>Sigueran,</hi> a letter found (as he affirmed) in the ſtraw-bed of the afore-ſayd <hi>du Bois,</hi> directed vnto him, and written and ſigned by the ſup<g ref="char:EOLhyphen"/>poſed name of <hi>de la Roche</hi> a fained inhabi<g ref="char:EOLhyphen"/>tant of the Towne of <hi>Rochell;</hi> and in the name as it were of the whole body there<g ref="char:EOLhyphen"/>of: the fearefull tenure whereof, tended vnto horrible and damnable Deſignes a<g ref="char:EOLhyphen"/>gainſt the life of our King. Father <hi>Sigueran,</hi> without conſideration of the aſtoniſh<g ref="char:EOLhyphen"/>ment it might haue bred, carrieth it forth<g ref="char:EOLhyphen"/>with to the King, and his Maieſtie refer<g ref="char:EOLhyphen"/>reth it to an appointed Iudge.</p>
+            <p>Now as it was not onely his end who
+<pb n="4" facs="tcp:177482:4"/>
+ſet this Informer on worke, to ayme ſim<g ref="char:EOLhyphen"/>plie at the ruine of the ſaid <hi>Du Bois,</hi> but al<g ref="char:EOLhyphen"/>ſo to involue in this Diueliſh crime the Towneſmen of <hi>Rochell,</hi> yea even endeuou<g ref="char:EOLhyphen"/>ring to bring into a generall hatred (which ought to be common to all good French<g ref="char:EOLhyphen"/>men againſt all ſuch ſacrilegious and de<g ref="char:EOLhyphen"/>teſtable paracides) all thoſe of our pro<g ref="char:EOLhyphen"/>feſſion, hoping to ſtirre vp by iuſt execu<g ref="char:EOLhyphen"/>tions, or maſſacres, amongſt the people, or by the indignation of our Prince in a generall warre, new troubles, and ſome mightie breach for the common enemie of our Eſtate: So the ſaid Inventor ſug<g ref="char:EOLhyphen"/>geſted ſuch matter in this Letter, as was able to enſnare vs all in the net of an inevitable ruine, as wee ſhould haue ve<g ref="char:EOLhyphen"/>ry well deſerved, if theſe ſuppoſitions had beene true, and recommends in ex<g ref="char:EOLhyphen"/>preſſe tearmes in his ſayd diſcourſe vnto the ſayd <hi>du Bois,</hi> the reſolution to aime his ſtroake at the ſacred boſome of our King, and from thence to paſſe vnto the perſon of <hi>Monſieur</hi> the Kings brother, by the di<g ref="char:EOLhyphen"/>rection and enchantment of a moſt noto<g ref="char:EOLhyphen"/>rious Magitian, whom he faines to haue
+<pb n="5" facs="tcp:177482:4"/>
+beene ſent vnto him, to metamorphoze him into a ſtraw after the execution. And to ſpurre him on the better to this reſolu<g ref="char:EOLhyphen"/>tion, he remonſtrates vnto him that <hi>Manſ<g ref="char:EOLhyphen"/>field</hi> is weary of his long ſtay: That Mon<g ref="char:EOLhyphen"/>ſieur <hi>de Soubife</hi> looſeth the fruit of his ſur<g ref="char:EOLhyphen"/>priſalls: That he ſhall finde a ſafe retreate vnder the Conſtable: and that the ſumme of ſix thouſand Crownes, promiſed vnto him by thoſe of <hi>Rochell,</hi> is readie. Thus you may ſee how this Project doth whol<g ref="char:EOLhyphen"/>ly tend to muſter vp all matter which may ſeeme to further the inventors hatred, and our ruine.</p>
+            <p>But the more this buſines ſeemed mon<g ref="char:EOLhyphen"/>ſterous, the more it ſtirred vp the Iudges affection to vſe all due circumſpection and conſideration; which preſently invite him happily to a ſecond ſeazure of <hi>du Bois,</hi> and vpon exact examination of the ſaid Let<g ref="char:EOLhyphen"/>ter, comes by a number of notable cir<g ref="char:EOLhyphen"/>cumſtances, to ſuſpect and diſcover the perfidiouſneſſe of this plot; ſo as every ſe<g ref="char:EOLhyphen"/>verall ſucceſſe of this his travaile, doth worthily deſerue an entire Deſcription:
+<pb n="6" facs="tcp:177482:5"/>
+for preſently he runnes over all the Scriue<g ref="char:EOLhyphen"/>ners, Coppiers, and Clerkes, diſcovers by an Advocats Clerke of <hi>Lions,</hi> the very ſame Caracter, the foreſayd letter was written withall; then hee viſiteth all the Gravers ſhopps, and found who made the Seale<g ref="char:punc">▪</g> goes to the Stationers, compares there his paper, and findes where the ſayd Clerke had bought the very ſame leafe ſo writ<g ref="char:EOLhyphen"/>ten: ſeazeth on him, the Graver, and the Accuſer, who condemnes himſelfe and craues pardon, and diſcloſeth and avou<g ref="char:EOLhyphen"/>cheth a certaine Deputie of the Clergie of <hi>Baye</hi> vpon <hi>Baye,</hi> to haue hired him there<g ref="char:EOLhyphen"/>unto for 600. Crownes. Thus the meanes and progreſſe of theſe diſcoveries doe much recommend this good. Iudge vnto all poſteritie, and to haue well deſerved of the Common-wealth, which is euery day in expectation: through this his good iuſtice and by the authoritie and expreſſe commandement of his Maieſtie, to ſee exemplarie puniſhment performed vpon theſe curſed <hi>machavillians.</hi> And now you may plainely ſee <hi>Syr</hi> how many iuſt occa<g ref="char:EOLhyphen"/>ſions
+<pb n="7" facs="tcp:177482:5"/>
+wee haue, to lift vp with thankes giving pure hands vnto God, for his holy protection, and defending of vs, and more particular preſervation of his Royall Ma<g ref="char:EOLhyphen"/>ieſtie: For what more plauſible ſubiect can we haue, to exerciſe our ſinceritie and good intentions, then vpon this occaſion to procure by our renewed fidelities and obedience, that true protection of his Ma<g ref="char:EOLhyphen"/>ieſties Scepter, which wee craue. And from hence he may iuſtly hereafter be in<g ref="char:EOLhyphen"/>vited, vnto ſuch a particular examinatio<g ref="char:cmbAbbrStroke">̄</g> as ſhall diſtinctly averre that which they publiquely and ſo lightly impoſe vpon vs: ſo as obſerving with what ſpirit our Enemies are poſſeſſed, hee ſhall plainely ſee (if it pleaſe him) that by bending and leaning to their deſires againſt his good ſubiects, hee ſhall deſtroy by his Armes, that which he may more profitably win by his protection, and withſtand as cou<g ref="char:EOLhyphen"/>ragiouſly our common enemie, as we na<g ref="char:EOLhyphen"/>turally hate him: It may pleaſe God that his Maieſty perceiving vs to be glewed to his Scepter alone, may conclude it as a
+<pb n="8" facs="tcp:177482:6"/>
+thing iuſt in his iuſtice, to grant vs the en<g ref="char:EOLhyphen"/>tire accompliſhment, and execution of thoſe things which it pleaſed him to grant vs in the <hi>treatie of peace,</hi> and which we dare ſay by our behaviour, and His clemencie, wee haue deſerved: leaſt the inexecutions ſo notoriouſly obſerved towards vs, be<g ref="char:EOLhyphen"/>come ſo many ſtaines, not able to bee wa<g ref="char:EOLhyphen"/>ſhed out, but with the ground and all; and dimme the luſter of that firme fidelitie, which is the ground and preſervation of Kingdoms, as well as of ordinarie com<g ref="char:EOLhyphen"/>merce amongſt men. Nor doe theſe dire<g ref="char:EOLhyphen"/>full and ſtrong garriſons ſerue to any o<g ref="char:EOLhyphen"/>ther end, then as baites vnto ſuch as make ſiniſter concluſions of his Maieſties inten<g ref="char:EOLhyphen"/>tions.</p>
+            <p>But returning to our Hiſtorie, you ſhall vnderſtand, that this good Iudge, en<g ref="char:EOLunhyphen"/>devoureth to finde out the ſource of this inſtigation as aſpiring vnto the publique peace: Yet I doubt me wee ſhall not at<g ref="char:EOLhyphen"/>taine therevnto, yet although wee diſco<g ref="char:EOLhyphen"/>ver not the arme which did ſhoote them, wee haue ſeized on the arrowes of their
+<pb n="9" facs="tcp:177482:6"/>
+pernitious deſignes, and by the bleſsing of our good God, this ſlaunder hath not yet beene able to ſet her viperous teeth on our reputation, ſince the murdering of the Lords Annointed ones hath beene in vſe; for we know what is due even to the ve<g ref="char:EOLhyphen"/>ry skirt of <hi>Saules</hi> garment: all thoſe of our profeſsion being alwayes well inſtructed, to yeeld obedience to our Kings by nature and for conſcience ſake; And wee alone are they throughout all their Dominions, which take the oath of fidelitie vnto them excluſiuely againſt all others. Certainely you which know by reading al our chro<g ref="char:EOLhyphen"/>nicles and your owne experience, what thoſe Fryars be, of which there are yet a thouſand brands ſmoaking, haue often re<g ref="char:EOLhyphen"/>preſented vnto me, that in the heat of ſo many ſlaughters and executions wrong<g ref="char:EOLhyphen"/>fully exerciſed againſt vs, there was never found any ſparke of attempt amongſt vs, nor any thing which hath had power, to ſtirre vs vp to affect a forraine Rule, and with-draw vs from the Scepter of our Birth. This is it which makes vs ſo iea<g ref="char:EOLhyphen"/>lous
+<pb n="10" facs="tcp:177482:7"/>
+of our reputation, and ſo paſſionatly and openly to cry out for iuſtice, as well for the common good as our particular preſervation. The which beeing often aſſured vnto vs by the principall Miniſters of <hi>State</hi> here, with the obſervation of our <hi>Edicts:</hi> I dare as often vpon their credits confirme the apparencies, and the good words which his Maieſtie is pleaſed to giue vs concerning the continua<g ref="char:cmbAbbrStroke">̄</g>ce of the peace, the onely ſupporter of our ſtate and procurement of our felicitie; And which beſides makes vs hope to be found fitt to tranſport the generous Deſignes of our Noble King, beyond the ordinarie lim<g ref="char:EOLhyphen"/>mits, which the Spaniard hath too ſtrick<g ref="char:EOLhyphen"/>ly meaſured out. In the meane time at<g ref="char:EOLhyphen"/>tending to heare from you, I will pray to God for the proſperitie of you and your braue Children, and euer remaine</p>
+            <closer>
+               <signed>Your humble and moſt <hi>affectionate ſervant and Allie,</hi> Montmartin <hi>Generall Deputie.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>Paris</hi> 15. <hi>February,</hi> 1624.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:177482:7"/>
+            <p>HOwſoever, if we conſider the puritie of Gods Word and Goſpell, the inte<g ref="char:EOLhyphen"/>gritie of Chriſtian Religion, and the meeke ſimplicitie of the Profeſſors there<g ref="char:EOLhyphen"/>of, it may well be wondred at, that crymes of Treachery, Conſpiracy, and fury, ſhould be imputed vnto them who haue (follow<g ref="char:EOLhyphen"/>ing our Saviours counſell and example) ſuffered patiently, intollerable and moſt horrible perſecutions, iniuries, and reproa<g ref="char:EOLhyphen"/>ches, without rendring the like to their Adverſaries, as iuſtly they haue beene inci<g ref="char:EOLhyphen"/>ted vnto; and might haue done by the law of Retribution; yet if we call to minde the inveterate malice of Sathan, and his children, againſt God, his Word, and his Church, with their accuſtomed dealings in this kinde from time to time ever ſince the beginning of the world, it may be e<g ref="char:EOLhyphen"/>ſteemed no wonder at all; No, although theſe of later and preſent times, out ſtrip their forefathers, and Sathan now goe be<g ref="char:EOLhyphen"/>yond himſelfe, in inventing new and pro<g ref="char:EOLhyphen"/>digious
+<pb n="12" facs="tcp:177482:8"/>
+perſecutions and ſlaunders againſt Gods people; for the Devill is grown old and cunning, and hath diſtilled the quin<g ref="char:EOLhyphen"/>teſſence of fury and villany into his Imps, eſpecially into the Ieſuits heads &amp; hearts; who having ſet all Chriſtendome toge<g ref="char:EOLhyphen"/>ther by the eares, by their ſubtile plots and deviſes, to the vtter ruine thereof, (if God in mercy doe not miraculouſly prevent it) while themſelues ſit aloft and laugh to ſee how they make fooles of all the world, thus to dance after their Pipe, and yet can ſo finely carry the matter, as (good ſoules) not once to be ſuſpected; but rather it ap<g ref="char:EOLhyphen"/>peares to vulgar eyes, that they beſtow much care and labour, to diſcover the au<g ref="char:EOLhyphen"/>thors of theſe combuſtions, and to that purpoſe doe they (like vnholy Fathers as they are) cry out in their Bookes of the Inſurrections and Rebellions of <hi>Proteſtants</hi> in all Countries; and here they lay on load, raking all kennels for filthy lyes and foule imputations, to bedaub vs withall, and ſo to make vs vgly and odious in all mens ſight; but let not this temptation trouble
+<pb n="13" facs="tcp:177482:8"/>
+vs, for its no newes, for Gods ſervants to be ſlaine and ſlaundered both at once: all Hiſtories both ſacred and prophane, make it manifeſt by multitudes of Examples, which it would be too long to rehearſe in this ſhort diſcourſe; onely we may well wonder, that theſe fellowes who haue ſuch long memories to relate what they ſuppoſe <hi>Proteſtants</hi> haue done; yet are ſo ſhort in their owne rebellions and treche<g ref="char:EOLhyphen"/>rous actions; inſomuch, as one would thinke they had learned in Father <hi>Aubiguyes</hi> Schoole, the Art to forget any thing that may impeach their Catholicke cauſe. And therefore it were to be wiſhed that ſome man of good ſufficiencie would call to their remembrance, their tranſcendant tre<g ref="char:EOLhyphen"/>cheries and cruelties againſt <hi>Proteſtants,</hi> al<g ref="char:EOLhyphen"/>moſt in all Countries of Chriſtendome; ſuch as the maſſacring of many thouſands in one Kingdome, within three dayes ſpace: Blowing vp with Gun-powder the whole State of another; beſides their fa<g ref="char:EOLhyphen"/>miliar burning of poore Chriſtians, of all degrees, ſexes, and ages; eſteeming it no
+<pb n="14" facs="tcp:177482:9"/>
+more (as one of them ſayd) then the bur<g ref="char:EOLhyphen"/>ning of an Earewig: or as another of them makes it but a matter of ſport, to burne a man for ſome fooliſh opinions (as he cals them): Surely theſe were hugely Catho<g ref="char:EOLhyphen"/>licke, but it was in monſtrous crueltie and villanie.</p>
+            <p>Now that it may appeare they haue not changed their qualities, behold here one knack of their Knavery, preſently ſet on foote; whereby thou maiſt perceiue, that as their father the Devill was a lyar and a murtherer from the beginning, ſo they as his naturall Children, will conti<g ref="char:EOLhyphen"/>nue murtherers and lyers to the end: God Almightie ſend an end vnto their ma<g ref="char:EOLhyphen"/>lice and miſchiefe at length for <hi>Chriſts</hi> ſake. Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
